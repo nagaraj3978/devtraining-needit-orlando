@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="4fc221d1db72001056752a9a4896190e" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>My Custom Table</name>
+        <order/>
+        <roles>x_58872_needit.my_custom_table_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-16 14:55:44</sys_created_on>
+        <sys_domain>4fc221d1db72001056752a9a4896190e</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b6922c21db97101001718a184896193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Custom Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_application_b6922c21db97101001718a184896193e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-16 14:55:44</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>5833cca4db6317844c1ff70fbf961931</instance_id>
+        <instance_name>dev66754</instance_name>
+        <name>sys_ui_application_b6922c21db97101001718a184896193e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="4fc221d1db72001056752a9a4896190e" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>My Custom Table</name><order/><roles>x_58872_needit.my_custom_table_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-16 14:55:44</sys_created_on><sys_domain>4fc221d1db72001056752a9a4896190e</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b6922c21db97101001718a184896193e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Custom Table</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_application_b6922c21db97101001718a184896193e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-16 14:55:44</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>-1433367431</payload_hash>
+        <record_name>My Custom Table</record_name>
+        <reverted_from/>
+        <source>b7d38bd1db53101001718a1848961972</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-16 14:55:44</sys_created_on>
+        <sys_id>76922c21db97101001718a1848961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174976a111c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-16 14:55:44</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>be922c21dd971010581466aefb956e40</update_guid>
+        <update_guid_history>be922c21dd971010581466aefb956e40:-1433367431</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-16 15:09:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>039c507415dd4a7c8f99d72b9bc14921</sys_id>
+        <sys_metadata>b6922c21db97101001718a184896193e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Custom Table</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_application_b6922c21db97101001718a184896193e</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_b6922c21db97101001718a184896193e">76922c21db97101001718a1848961941</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-16 15:09:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
